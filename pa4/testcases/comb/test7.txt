@@ -1,0 +1,13 @@
+INPUTVAR 3 A B C
+OUTPUTVAR 2 Q Y
+AND A B e
+NOT e f
+OR A B g
+AND f g k
+AND k C h
+NOT h i
+OR k C j
+AND i j Q
+AND k C l
+AND A B m
+OR l m Y

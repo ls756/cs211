@@ -1,0 +1,10 @@
+INPUTVAR 4 A B C D
+OUTPUTVAR 1 Z
+AND A B m
+NOT m n
+AND D D p
+NOT p q
+AND q C r
+NOT r s
+AND s n t
+NOT t Z

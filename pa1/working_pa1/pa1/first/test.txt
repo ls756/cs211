@@ -1,0 +1,14 @@
+10
+even
+0
+even
+1000
+even
+1 
+odd
+3 
+odd
+1001 
+odd
+
+error

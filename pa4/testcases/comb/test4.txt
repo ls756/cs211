@@ -1,0 +1,8 @@
+INPUTVAR 2 B A
+OUTPUTVAR 4 C D E F
+NOT A e
+NOT B f
+AND e f C
+AND A f D
+AND e B E
+AND A B F

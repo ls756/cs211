@@ -1,0 +1,6 @@
+INPUTVAR 2 A B
+OUTPUTVAR 1 Q
+AND A B e
+NOT e f
+OR A B g
+AND f g Q
